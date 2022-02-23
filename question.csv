@@ -1,0 +1,682 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,participant_id,number,question,response
+1,2020-10-29 18:43:00.609537,,,,,,f,,{},question,2,0,preference,men
+2,2020-10-29 18:43:08.045038,,,,,,f,,{},question,7,0,preference,men
+3,2020-10-29 18:43:09.560656,,,,,,f,,{},question,3,0,preference,both
+4,2020-10-29 18:43:11.776545,,,,,,f,,{},question,10,0,preference,men
+5,2020-10-29 18:43:17.835086,,,,,,f,,{},question,11,0,preference,women
+6,2020-10-29 18:43:21.666716,,,,,,f,,{},question,6,0,preference,men
+7,2020-10-29 18:43:23.615072,,,,,,f,,{},question,17,0,preference,men
+8,2020-10-29 18:43:23.815998,,,,,,f,,{},question,13,0,preference,men
+9,2020-10-29 18:43:24.289803,,,,,,f,,{},question,14,0,preference,men
+10,2020-10-29 18:43:25.929999,,,,,,f,,{},question,18,0,preference,men
+11,2020-10-29 18:43:26.472804,,,,,,f,,{},question,19,0,preference,women
+12,2020-10-29 18:43:31.441595,,,,,,f,,{},question,23,0,preference,men
+13,2020-10-29 18:43:31.897833,,,,,,f,,{},question,12,0,preference,men
+14,2020-10-29 18:43:32.862535,,,,,,f,,{},question,15,0,preference,women
+15,2020-10-29 18:43:32.899773,,,,,,f,,{},question,22,0,preference,men
+16,2020-10-29 18:43:32.940638,,,,,,f,,{},question,21,0,preference,men
+17,2020-10-29 18:43:34.36313,,,,,,f,,{},question,8,0,preference,both
+18,2020-10-29 18:43:37.75298,,,,,,f,,{},question,16,0,preference,men
+19,2020-10-29 18:43:39.819732,,,,,,f,,{},question,20,0,preference,men
+20,2020-10-29 18:43:44.94916,,,,,,f,,{},question,27,0,preference,men
+21,2020-10-29 18:43:45.839235,,,,,,f,,{},question,26,0,preference,women
+22,2020-10-29 18:43:48.79363,,,,,,f,,{},question,25,0,preference,men
+23,2020-10-29 18:43:51.798565,,,,,,f,,{},question,9,0,preference,women
+24,2020-10-29 18:43:56.581652,,,,,,f,,{},question,29,0,preference,men
+25,2020-10-29 18:43:56.960678,,,,,,f,,{},question,28,0,preference,women
+26,2020-10-29 18:43:57.998924,,,,,,f,,{},question,5,0,preference,men
+27,2020-10-29 18:43:59.896522,,,,,,f,,{},question,30,0,preference,women
+28,2020-10-29 18:44:06.480467,,,,,,f,,{},question,24,0,preference,women
+29,2020-10-29 18:44:09.283601,,,,,,f,,{},question,32,0,preference,men
+30,2020-10-29 18:44:34.769183,,,,,,f,,{},question,37,0,preference,women
+31,2020-10-29 18:44:42.930408,,,,,,f,,{},question,35,0,preference,men
+32,2020-10-29 18:44:43.117606,,,,,,f,,{},question,40,0,preference,men
+33,2020-10-29 18:44:45.087295,,,,,,f,,{},question,39,0,preference,women
+34,2020-10-29 18:44:59.022597,,,,,,f,,{},question,42,0,preference,women
+35,2020-10-29 18:44:59.470104,,,,,,f,,{},question,41,0,preference,men
+36,2020-10-29 18:45:01.10755,,,,,,f,,{},question,38,0,preference,men
+37,2020-10-29 18:45:03.247403,,,,,,f,,{},question,34,0,preference,women
+38,2020-10-29 18:45:04.782653,,,,,,f,,{},question,10,1,questionnaire,"{""age"":""60"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+39,2020-10-29 18:45:06.818701,,,,,,f,,{},question,36,0,preference,women
+40,2020-10-29 18:45:10.660229,,,,,,f,,{},question,46,0,preference,women
+41,2020-10-29 18:45:21.864998,,,,,,f,,{},question,45,0,preference,women
+42,2020-10-29 18:45:22.053386,,,,,,f,,{},question,44,0,preference,women
+43,2020-10-29 18:45:30.400204,,,,,,f,,{},question,47,0,preference,women
+44,2020-10-29 18:45:31.805086,,,,,,f,,{},question,11,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+45,2020-10-29 18:45:33.045079,,,,,,f,,{},question,4,0,preference,men
+46,2020-10-29 18:45:43.081286,,,,,,f,,{},question,2,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+47,2020-10-29 18:45:49.014508,,,,,,f,,{},question,48,0,preference,women
+48,2020-10-29 18:46:25.573582,,,,,,f,,{},question,52,0,preference,men
+49,2020-10-29 18:46:37.032162,,,,,,f,,{},question,49,0,preference,men
+50,2020-10-29 18:46:37.865534,,,,,,f,,{},question,31,0,preference,men
+51,2020-10-29 18:46:39.630935,,,,,,f,,{},question,53,0,preference,women
+52,2020-10-29 18:46:46.85789,,,,,,f,,{},question,51,0,preference,women
+53,2020-10-29 18:47:05.453346,,,,,,f,,{},question,54,0,preference,women
+54,2020-10-29 18:47:29.299837,,,,,,f,,{},question,57,0,preference,women
+55,2020-10-29 18:47:52.556474,,,,,,f,,{},question,56,0,preference,men
+56,2020-10-29 18:47:58.002314,,,,,,f,,{},question,55,0,preference,women
+57,2020-10-29 18:48:07.32524,,,,,,f,,{},question,58,0,preference,men
+58,2020-10-29 18:48:15.406504,,,,,,f,,{},question,59,0,preference,men
+59,2020-10-29 18:48:23.911546,,,,,,f,,{},question,43,0,preference,women
+60,2020-10-29 18:48:24.996174,,,,,,f,,{},question,44,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+61,2020-10-29 18:48:45.646364,,,,,,f,,{},question,27,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+62,2020-10-29 18:48:47.333937,,,,,,f,,{},question,62,0,preference,men
+63,2020-10-29 18:48:55.27583,,,,,,f,,{},question,68,0,preference,men
+64,2020-10-29 18:48:59.88514,,,,,,f,,{},question,61,0,preference,women
+65,2020-10-29 18:49:02.858561,,,,,,f,,{},question,65,0,preference,women
+66,2020-10-29 18:49:07.287893,,,,,,f,,{},question,63,0,preference,women
+67,2020-10-29 18:49:09.8275,,,,,,f,,{},question,69,0,preference,women
+68,2020-10-29 18:49:14.568425,,,,,,f,,{},question,70,0,preference,women
+69,2020-10-29 18:49:17.578946,,,,,,f,,{},question,67,0,preference,women
+70,2020-10-29 18:49:22.888921,,,,,,f,,{},question,74,0,preference,men
+71,2020-10-29 18:49:28.273844,,,,,,f,,{},question,72,0,preference,women
+72,2020-10-29 18:49:30.335171,,,,,,f,,{},question,76,0,preference,women
+73,2020-10-29 18:49:33.311769,,,,,,f,,{},question,78,0,preference,men
+74,2020-10-29 18:49:35.095176,,,,,,f,,{},question,64,0,preference,women
+75,2020-10-29 18:49:35.352337,,,,,,f,,{},question,59,1,questionnaire,"{""age"":""40"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+76,2020-10-29 18:49:35.652075,,,,,,f,,{},question,66,0,preference,women
+77,2020-10-29 18:49:37.028519,,,,,,f,,{},question,71,0,preference,women
+79,2020-10-29 18:49:39.833447,,,,,,f,,{},question,73,0,preference,women
+86,2020-10-29 18:49:53.937733,,,,,,f,,{},question,80,0,preference,women
+93,2020-10-29 18:50:04.890874,,,,,,f,,{},question,92,0,preference,men
+95,2020-10-29 18:50:06.741059,,,,,,f,,{},question,93,0,preference,women
+78,2020-10-29 18:49:37.173567,,,,,,f,,{},question,53,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+106,2020-10-29 18:50:31.707857,,,,,,f,,{},question,100,0,preference,men
+80,2020-10-29 18:49:43.811246,,,,,,f,,{},question,84,0,preference,men
+81,2020-10-29 18:49:44.028229,,,,,,f,,{},question,79,0,preference,women
+82,2020-10-29 18:49:44.097819,,,,,,f,,{},question,83,0,preference,women
+85,2020-10-29 18:49:53.70377,,,,,,f,,{},question,17,1,questionnaire,"{""age"":""26"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+99,2020-10-29 18:50:16.193623,,,,,,f,,{},question,95,0,preference,women
+103,2020-10-29 18:50:24.456384,,,,,,f,,{},question,101,0,preference,men
+105,2020-10-29 18:50:30.130501,,,,,,f,,{},question,103,0,preference,men
+111,2020-10-29 18:50:56.275489,,,,,,f,,{},question,108,0,preference,men
+83,2020-10-29 18:49:51.649007,,,,,,f,,{},question,82,0,preference,men
+84,2020-10-29 18:49:53.28422,,,,,,f,,{},question,85,0,preference,women
+87,2020-10-29 18:49:54.393442,,,,,,f,,{},question,81,0,preference,women
+102,2020-10-29 18:50:22.778212,,,,,,f,,{},question,98,0,preference,women
+88,2020-10-29 18:49:55.572976,,,,,,f,,{},question,89,0,preference,both
+94,2020-10-29 18:50:06.078357,,,,,,f,,{},question,87,0,preference,men
+104,2020-10-29 18:50:26.60916,,,,,,f,,{},question,99,0,preference,men
+89,2020-10-29 18:49:55.829734,,,,,,f,,{},question,77,0,preference,women
+90,2020-10-29 18:49:58.341025,,,,,,f,,{},question,88,0,preference,men
+97,2020-10-29 18:50:09.697756,,,,,,f,,{},question,86,0,preference,men
+91,2020-10-29 18:50:00.901986,,,,,,f,,{},question,90,0,preference,women
+92,2020-10-29 18:50:03.299984,,,,,,f,,{},question,60,0,preference,women
+107,2020-10-29 18:50:40.377952,,,,,,f,,{},question,102,0,preference,men
+96,2020-10-29 18:50:07.010168,,,,,,f,,{},question,94,0,preference,men
+98,2020-10-29 18:50:11.671366,,,,,,f,,{},question,91,0,preference,women
+110,2020-10-29 18:50:48.155812,,,,,,f,,{},question,106,0,preference,men
+100,2020-10-29 18:50:17.502567,,,,,,f,,{},question,97,0,preference,men
+101,2020-10-29 18:50:20.922194,,,,,,f,,{},question,96,0,preference,women
+108,2020-10-29 18:50:41.486913,,,,,,f,,{},question,104,0,preference,women
+109,2020-10-29 18:50:44.315623,,,,,,f,,{},question,63,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+112,2020-10-29 18:51:01.401479,,,,,,f,,{},question,99,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+113,2020-10-29 18:51:12.58554,,,,,,f,,{},question,28,1,questionnaire,"{""age"":""38"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+114,2020-10-29 18:51:15.121188,,,,,,f,,{},question,110,0,preference,women
+115,2020-10-29 18:51:30.134509,,,,,,f,,{},question,111,0,preference,women
+116,2020-10-29 18:51:31.559671,,,,,,f,,{},question,31,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+117,2020-10-29 18:51:33.80025,,,,,,f,,{},question,112,0,preference,women
+118,2020-10-29 18:51:34.537555,,,,,,f,,{},question,31,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+119,2020-10-29 18:51:35.428995,,,,,,f,,{},question,114,0,preference,women
+120,2020-10-29 18:51:38.046108,,,,,,f,,{},question,105,0,preference,men
+121,2020-10-29 18:51:39.234145,,,,,,f,,{},question,115,0,preference,men
+122,2020-10-29 18:51:47.684244,,,,,,f,,{},question,107,0,preference,women
+123,2020-10-29 18:52:06.369258,,,,,,f,,{},question,91,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+124,2020-10-29 18:52:09.548061,,,,,,f,,{},question,117,0,preference,women
+125,2020-10-29 18:52:10.748084,,,,,,f,,{},question,93,1,questionnaire,"{""age"":""58"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+126,2020-10-29 18:52:10.944221,,,,,,f,,{},question,109,0,preference,men
+127,2020-10-29 18:52:13.234236,,,,,,f,,{},question,68,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+128,2020-10-29 18:52:13.937852,,,,,,f,,{},question,116,0,preference,men
+129,2020-10-29 18:52:34.018105,,,,,,f,,{},question,120,0,preference,men
+130,2020-10-29 18:52:51.602925,,,,,,f,,{},question,118,0,preference,men
+131,2020-10-29 18:52:53.327747,,,,,,f,,{},question,122,0,preference,men
+132,2020-10-29 18:53:01.642174,,,,,,f,,{},question,40,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+133,2020-10-29 18:53:14.543975,,,,,,f,,{},question,124,0,preference,men
+134,2020-10-29 18:53:19.572011,,,,,,f,,{},question,123,0,preference,women
+135,2020-10-29 18:53:26.575376,,,,,,f,,{},question,129,0,preference,women
+136,2020-10-29 18:53:28.915527,,,,,,f,,{},question,121,0,preference,men
+137,2020-10-29 18:53:33.058139,,,,,,f,,{},question,130,0,preference,women
+138,2020-10-29 18:53:41.511637,,,,,,f,,{},question,125,0,preference,both
+139,2020-10-29 18:53:41.971506,,,,,,f,,{},question,127,0,preference,women
+140,2020-10-29 18:53:46.051122,,,,,,f,,{},question,131,0,preference,women
+141,2020-10-29 18:53:49.375788,,,,,,f,,{},question,126,0,preference,men
+142,2020-10-29 18:53:53.247522,,,,,,f,,{},question,113,0,preference,women
+143,2020-10-29 18:53:56.577076,,,,,,f,,{},question,128,0,preference,women
+144,2020-10-29 18:53:59.405497,,,,,,f,,{},question,78,1,questionnaire,"{""age"":""39"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+145,2020-10-29 18:54:06.252441,,,,,,f,,{},question,132,0,preference,men
+146,2020-10-29 18:54:10.185136,,,,,,f,,{},question,136,0,preference,women
+147,2020-10-29 18:54:17.991673,,,,,,f,,{},question,137,0,preference,women
+148,2020-10-29 18:54:20.130373,,,,,,f,,{},question,138,0,preference,men
+149,2020-10-29 18:54:24.723505,,,,,,f,,{},question,135,0,preference,men
+150,2020-10-29 18:54:29.962313,,,,,,f,,{},question,134,0,preference,both
+151,2020-10-29 18:54:32.574674,,,,,,f,,{},question,141,0,preference,women
+152,2020-10-29 18:54:40.858954,,,,,,f,,{},question,140,0,preference,men
+153,2020-10-29 18:54:45.775674,,,,,,f,,{},question,139,0,preference,women
+154,2020-10-29 18:54:52.681914,,,,,,f,,{},question,142,0,preference,men
+155,2020-10-29 18:54:52.684053,,,,,,f,,{},question,143,0,preference,men
+156,2020-10-29 18:54:59.094194,,,,,,f,,{},question,133,0,preference,women
+157,2020-10-29 18:55:09.564438,,,,,,f,,{},question,145,0,preference,women
+158,2020-10-29 18:55:11.639488,,,,,,f,,{},question,147,0,preference,men
+159,2020-10-29 18:55:15.408625,,,,,,f,,{},question,84,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+160,2020-10-29 18:55:16.639627,,,,,,f,,{},question,150,0,preference,men
+161,2020-10-29 18:55:43.884465,,,,,,f,,{},question,151,0,preference,women
+162,2020-10-29 18:55:48.60219,,,,,,f,,{},question,119,0,preference,men
+163,2020-10-29 18:55:50.972377,,,,,,f,,{},question,144,0,preference,women
+164,2020-10-29 18:55:51.864244,,,,,,f,,{},question,148,0,preference,women
+165,2020-10-29 18:55:58.613376,,,,,,f,,{},question,155,0,preference,men
+166,2020-10-29 18:55:59.129162,,,,,,f,,{},question,152,0,preference,women
+167,2020-10-29 18:56:07.509812,,,,,,f,,{},question,156,0,preference,men
+168,2020-10-29 18:56:08.38139,,,,,,f,,{},question,146,0,preference,men
+169,2020-10-29 18:56:11.710342,,,,,,f,,{},question,154,0,preference,men
+170,2020-10-29 18:56:13.383727,,,,,,f,,{},question,149,0,preference,women
+171,2020-10-29 18:56:20.46084,,,,,,f,,{},question,157,0,preference,men
+172,2020-10-29 18:56:22.555738,,,,,,f,,{},question,153,0,preference,women
+173,2020-10-29 18:56:28.261747,,,,,,f,,{},question,159,0,preference,men
+174,2020-10-29 18:57:01.586811,,,,,,f,,{},question,141,1,questionnaire,"{""age"":""37"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+175,2020-10-29 18:57:14.41554,,,,,,f,,{},question,158,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+176,2020-10-29 18:57:19.637873,,,,,,f,,{},question,160,0,preference,men
+177,2020-10-29 18:57:31.948032,,,,,,f,,{},question,162,0,preference,women
+178,2020-10-29 18:57:49.713089,,,,,,f,,{},question,121,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+184,2020-10-29 18:58:31.968035,,,,,,f,,{},question,108,1,questionnaire,"{""age"":""44"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+223,2020-10-29 19:02:14.91496,,,,,,f,,{},question,50,0,preference,men
+179,2020-10-29 18:57:49.832023,,,,,,f,,{},question,163,0,preference,women
+180,2020-10-29 18:58:02.669499,,,,,,f,,{},question,19,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+181,2020-10-29 18:58:07.484295,,,,,,f,,{},question,161,0,preference,women
+182,2020-10-29 18:58:12.217956,,,,,,f,,{},question,164,0,preference,men
+183,2020-10-29 18:58:17.550699,,,,,,f,,{},question,166,0,preference,men
+185,2020-10-29 18:58:39.838416,,,,,,f,,{},question,165,0,preference,women
+186,2020-10-29 18:58:47.963443,,,,,,f,,{},question,168,0,preference,women
+187,2020-10-29 18:58:51.328975,,,,,,f,,{},question,167,0,preference,women
+188,2020-10-29 18:58:56.972608,,,,,,f,,{},question,85,1,questionnaire,"{""age"":""68"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+189,2020-10-29 18:58:57.473016,,,,,,f,,{},question,169,0,preference,women
+190,2020-10-29 18:59:02.849958,,,,,,f,,{},question,145,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+191,2020-10-29 18:59:16.875849,,,,,,f,,{},question,170,0,preference,men
+192,2020-10-29 18:59:19.398408,,,,,,f,,{},question,33,0,preference,women
+196,2020-10-29 18:59:27.881306,,,,,,f,,{},question,16,1,questionnaire,"{""age"":""52"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+198,2020-10-29 18:59:54.03713,,,,,,f,,{},question,172,0,preference,men
+199,2020-10-29 19:00:03.556779,,,,,,f,,{},question,139,1,questionnaire,"{""age"":""40"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+200,2020-10-29 19:00:15.360066,,,,,,f,,{},question,87,1,questionnaire,"{""age"":""31"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+202,2020-10-29 19:00:16.524282,,,,,,f,,{},question,124,1,questionnaire,"{""age"":""32"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+205,2020-10-29 19:00:45.020208,,,,,,f,,{},question,173,0,preference,women
+207,2020-10-29 19:01:07.673288,,,,,,f,,{},question,177,0,preference,women
+210,2020-10-29 19:01:14.251481,,,,,,f,,{},question,180,0,preference,men
+211,2020-10-29 19:01:21.052001,,,,,,f,,{},question,175,0,preference,both
+214,2020-10-29 19:01:57.495496,,,,,,f,,{},question,185,0,preference,men
+216,2020-10-29 19:02:02.341968,,,,,,f,,{},question,183,0,preference,women
+218,2020-10-29 19:02:09.790611,,,,,,f,,{},question,165,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+221,2020-10-29 19:02:14.206615,,,,,,f,,{},question,181,0,preference,men
+229,2020-10-29 19:02:53.033672,,,,,,f,,{},question,169,1,questionnaire,"{""age"":""43"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+230,2020-10-29 19:02:55.584713,,,,,,f,,{},question,46,1,questionnaire,"{""age"":""50"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+232,2020-10-29 19:03:30.35903,,,,,,f,,{},question,189,0,preference,women
+235,2020-10-29 19:04:41.596785,,,,,,f,,{},question,195,0,preference,men
+237,2020-10-29 19:04:44.351916,,,,,,f,,{},question,194,0,preference,women
+193,2020-10-29 18:59:20.726442,,,,,,f,,{},question,119,1,questionnaire,"{""age"":""50"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+194,2020-10-29 18:59:23.793153,,,,,,f,,{},question,119,1,questionnaire,"{""age"":""50"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+195,2020-10-29 18:59:25.05129,,,,,,f,,{},question,171,0,preference,men
+197,2020-10-29 18:59:31.304611,,,,,,f,,{},question,145,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+201,2020-10-29 19:00:16.357596,,,,,,f,,{},question,66,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+203,2020-10-29 19:00:27.478449,,,,,,f,,{},question,92,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+204,2020-10-29 19:00:41.96169,,,,,,f,,{},question,174,0,preference,men
+206,2020-10-29 19:00:45.626652,,,,,,f,,{},question,101,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+208,2020-10-29 19:01:11.402794,,,,,,f,,{},question,178,0,preference,women
+209,2020-10-29 19:01:11.869951,,,,,,f,,{},question,176,0,preference,women
+212,2020-10-29 19:01:21.221592,,,,,,f,,{},question,159,1,questionnaire,"{""age"":""65"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+213,2020-10-29 19:01:25.843194,,,,,,f,,{},question,179,0,preference,women
+215,2020-10-29 19:02:01.137417,,,,,,f,,{},question,29,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+217,2020-10-29 19:02:09.252303,,,,,,f,,{},question,186,0,preference,men
+219,2020-10-29 19:02:11.019375,,,,,,f,,{},question,156,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+220,2020-10-29 19:02:12.919555,,,,,,f,,{},question,182,0,preference,women
+222,2020-10-29 19:02:14.779571,,,,,,f,,{},question,184,0,preference,men
+224,2020-10-29 19:02:27.695919,,,,,,f,,{},question,130,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+225,2020-10-29 19:02:33.984957,,,,,,f,,{},question,130,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+226,2020-10-29 19:02:41.346342,,,,,,f,,{},question,187,0,preference,women
+227,2020-10-29 19:02:48.061945,,,,,,f,,{},question,188,0,preference,women
+228,2020-10-29 19:02:49.981678,,,,,,f,,{},question,46,1,questionnaire,"{""age"":""50"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+231,2020-10-29 19:03:27.62211,,,,,,f,,{},question,110,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+233,2020-10-29 19:04:20.053207,,,,,,f,,{},question,157,1,questionnaire,"{""age"":""31"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+234,2020-10-29 19:04:30.247458,,,,,,f,,{},question,191,0,preference,women
+236,2020-10-29 19:04:42.510109,,,,,,f,,{},question,192,0,preference,women
+238,2020-10-29 19:04:49.941563,,,,,,f,,{},question,196,0,preference,men
+239,2020-10-29 19:04:50.161667,,,,,,f,,{},question,197,0,preference,women
+240,2020-10-29 19:04:55.914348,,,,,,f,,{},question,193,0,preference,men
+241,2020-10-29 19:04:56.112389,,,,,,f,,{},question,199,0,preference,men
+242,2020-10-29 19:05:03.149522,,,,,,f,,{},question,171,1,questionnaire,"{""age"":""22"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+243,2020-10-29 19:05:05.003321,,,,,,f,,{},question,203,0,preference,women
+244,2020-10-29 19:05:08.50831,,,,,,f,,{},question,171,1,questionnaire,"{""age"":""22"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+245,2020-10-29 19:05:12.569171,,,,,,f,,{},question,198,0,preference,women
+246,2020-10-29 19:05:14.144755,,,,,,f,,{},question,190,0,preference,women
+247,2020-10-29 19:05:15.848236,,,,,,f,,{},question,82,1,questionnaire,"{""age"":""43"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+248,2020-10-29 19:05:16.351564,,,,,,f,,{},question,204,0,preference,men
+249,2020-10-29 19:05:16.41915,,,,,,f,,{},question,201,0,preference,women
+250,2020-10-29 19:05:28.46621,,,,,,f,,{},question,205,0,preference,women
+251,2020-10-29 19:05:32.152441,,,,,,f,,{},question,206,0,preference,men
+252,2020-10-29 19:06:00.687021,,,,,,f,,{},question,207,0,preference,women
+253,2020-10-29 19:06:05.331069,,,,,,f,,{},question,200,0,preference,women
+254,2020-10-29 19:06:13.660977,,,,,,f,,{},question,186,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+255,2020-10-29 19:06:15.193004,,,,,,f,,{},question,210,0,preference,men
+256,2020-10-29 19:06:18.409406,,,,,,f,,{},question,208,0,preference,both
+257,2020-10-29 19:06:37.600614,,,,,,f,,{},question,211,0,preference,men
+258,2020-10-29 19:06:38.992803,,,,,,f,,{},question,209,0,preference,men
+259,2020-10-29 19:06:40.268995,,,,,,f,,{},question,182,1,questionnaire,"{""age"":""41"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+260,2020-10-29 19:06:57.506936,,,,,,f,,{},question,214,0,preference,men
+261,2020-10-29 19:06:58.686826,,,,,,f,,{},question,213,0,preference,women
+262,2020-10-29 19:07:02.551771,,,,,,f,,{},question,202,0,preference,both
+263,2020-10-29 19:07:06.588471,,,,,,f,,{},question,18,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+264,2020-10-29 19:07:08.581055,,,,,,f,,{},question,6,1,questionnaire,"{""age"":""25"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+271,2020-10-29 19:07:24.392684,,,,,,f,,{},question,218,0,preference,women
+265,2020-10-29 19:07:10.047654,,,,,,f,,{},question,3,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+266,2020-10-29 19:07:13.110444,,,,,,f,,{},question,215,0,preference,both
+267,2020-10-29 19:07:13.152485,,,,,,f,,{},question,216,0,preference,men
+268,2020-10-29 19:07:13.29067,,,,,,f,,{},question,14,1,questionnaire,"{""age"":""47"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+293,2020-10-29 19:09:44.057204,,,,,,f,,{},question,51,1,questionnaire,"{""age"":""47"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+296,2020-10-29 19:09:44.80161,,,,,,f,,{},question,65,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+297,2020-10-29 19:09:46.365786,,,,,,f,,{},question,26,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+303,2020-10-29 19:09:54.157949,,,,,,f,,{},question,24,1,questionnaire,"{""age"":""23"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+312,2020-10-29 19:10:08.274363,,,,,,f,,{},question,55,1,questionnaire,"{""age"":""49"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+313,2020-10-29 19:10:13.585606,,,,,,f,,{},question,116,1,questionnaire,"{""age"":""21"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+269,2020-10-29 19:07:14.370616,,,,,,f,,{},question,23,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+270,2020-10-29 19:07:14.381689,,,,,,f,,{},question,3,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+274,2020-10-29 19:07:44.497325,,,,,,f,,{},question,219,0,preference,women
+309,2020-10-29 19:10:07.090195,,,,,,f,,{},question,227,0,preference,women
+272,2020-10-29 19:07:36.953684,,,,,,f,,{},question,212,0,preference,women
+273,2020-10-29 19:07:37.829788,,,,,,f,,{},question,217,0,preference,men
+317,2020-10-29 19:10:47.52307,,,,,,f,,{},question,229,0,preference,men
+275,2020-10-29 19:07:47.054308,,,,,,f,,{},question,220,0,preference,men
+276,2020-10-29 19:07:51.084238,,,,,,f,,{},question,13,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+283,2020-10-29 19:08:37.231328,,,,,,f,,{},question,206,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+289,2020-10-29 19:09:36.352914,,,,,,f,,{},question,150,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+295,2020-10-29 19:09:44.283742,,,,,,f,,{},question,225,0,preference,women
+277,2020-10-29 19:07:54.340344,,,,,,f,,{},question,7,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+301,2020-10-29 19:09:49.789847,,,,,,f,,{},question,37,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+278,2020-10-29 19:08:13.957513,,,,,,f,,{},question,222,0,preference,men
+288,2020-10-29 19:09:17.128383,,,,,,f,,{},question,226,0,preference,women
+279,2020-10-29 19:08:22.18732,,,,,,f,,{},question,83,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+280,2020-10-29 19:08:23.905461,,,,,,f,,{},question,196,1,questionnaire,"{""age"":""51"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+290,2020-10-29 19:09:38.811731,,,,,,f,,{},question,54,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+302,2020-10-29 19:09:54.05014,,,,,,f,,{},question,70,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+281,2020-10-29 19:08:30.49288,,,,,,f,,{},question,221,0,preference,women
+282,2020-10-29 19:08:36.934018,,,,,,f,,{},question,154,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+284,2020-10-29 19:08:42.335616,,,,,,f,,{},question,206,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+299,2020-10-29 19:09:47.08874,,,,,,f,,{},question,70,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+315,2020-10-29 19:10:19.522733,,,,,,f,,{},question,116,1,questionnaire,"{""age"":""21"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+285,2020-10-29 19:08:50.236863,,,,,,f,,{},question,224,0,preference,men
+286,2020-10-29 19:09:07.595385,,,,,,f,,{},question,35,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+287,2020-10-29 19:09:13.420515,,,,,,f,,{},question,35,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+291,2020-10-29 19:09:41.823749,,,,,,f,,{},question,61,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+292,2020-10-29 19:09:42.893766,,,,,,f,,{},question,43,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+307,2020-10-29 19:10:03.033065,,,,,,f,,{},question,9,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""India"",""current_country"":""United States""}"
+294,2020-10-29 19:09:44.096887,,,,,,f,,{},question,69,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+298,2020-10-29 19:09:46.562217,,,,,,f,,{},question,57,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+300,2020-10-29 19:09:49.685094,,,,,,f,,{},question,30,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+304,2020-10-29 19:09:57.205289,,,,,,f,,{},question,8,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+305,2020-10-29 19:09:58.410897,,,,,,f,,{},question,228,0,preference,women
+306,2020-10-29 19:10:02.020039,,,,,,f,,{},question,210,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+308,2020-10-29 19:10:04.441699,,,,,,f,,{},question,210,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+310,2020-10-29 19:10:08.006959,,,,,,f,,{},question,15,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+311,2020-10-29 19:10:08.071576,,,,,,f,,{},question,223,0,preference,men
+316,2020-10-29 19:10:21.34698,,,,,,f,,{},question,116,1,questionnaire,"{""age"":""21"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+314,2020-10-29 19:10:17.239267,,,,,,f,,{},question,116,1,questionnaire,"{""age"":""21"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+318,2020-10-29 19:11:02.61873,,,,,,f,,{},question,167,1,questionnaire,"{""age"":""39"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+319,2020-10-29 19:11:08.985726,,,,,,f,,{},question,230,0,preference,women
+320,2020-10-29 19:11:14.059157,,,,,,f,,{},question,187,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+321,2020-10-29 19:11:17.66853,,,,,,f,,{},question,187,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+322,2020-10-29 19:11:23.497222,,,,,,f,,{},question,5,1,questionnaire,"{""age"":""33"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+323,2020-10-29 19:11:25.119084,,,,,,f,,{},question,74,1,questionnaire,"{""age"":""35"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+324,2020-10-29 19:11:27.070209,,,,,,f,,{},question,94,1,questionnaire,"{""age"":""56"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+325,2020-10-29 19:11:33.943172,,,,,,f,,{},question,88,1,questionnaire,"{""age"":""57"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+326,2020-10-29 19:11:35.805556,,,,,,f,,{},question,232,0,preference,men
+327,2020-10-29 19:11:36.472649,,,,,,f,,{},question,88,1,questionnaire,"{""age"":""57"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+328,2020-10-29 19:11:37.430417,,,,,,f,,{},question,41,1,questionnaire,"{""age"":""45"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+329,2020-10-29 19:11:38.088229,,,,,,f,,{},question,38,1,questionnaire,"{""age"":""54"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+330,2020-10-29 19:11:41.35281,,,,,,f,,{},question,233,0,preference,women
+331,2020-10-29 19:11:41.692323,,,,,,f,,{},question,4,1,questionnaire,"{""age"":""37"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+332,2020-10-29 19:11:44.000194,,,,,,f,,{},question,49,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+333,2020-10-29 19:11:47.870958,,,,,,f,,{},question,89,1,questionnaire,"{""age"":""24"",""sex"":""Male"",""gender"":""Transgender Female"",""orientation"":""Asexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+334,2020-10-29 19:11:51.213887,,,,,,f,,{},question,56,1,questionnaire,"{""age"":""44"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+335,2020-10-29 19:11:53.371542,,,,,,f,,{},question,22,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+336,2020-10-29 19:12:00.963178,,,,,,f,,{},question,58,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+337,2020-10-29 19:12:04.452821,,,,,,f,,{},question,234,0,preference,women
+338,2020-10-29 19:12:09.511569,,,,,,f,,{},question,231,0,preference,men
+339,2020-10-29 19:12:11.612587,,,,,,f,,{},question,235,0,preference,women
+340,2020-10-29 19:12:15.831591,,,,,,f,,{},question,211,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+341,2020-10-29 19:12:17.139673,,,,,,f,,{},question,211,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+342,2020-10-29 19:12:18.318763,,,,,,f,,{},question,211,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+343,2020-10-29 19:12:18.725991,,,,,,f,,{},question,236,0,preference,men
+344,2020-10-29 19:12:23.222066,,,,,,f,,{},question,125,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+345,2020-10-29 19:12:37.53572,,,,,,f,,{},question,58,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+346,2020-10-29 19:12:40.791201,,,,,,f,,{},question,103,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+347,2020-10-29 19:12:41.08675,,,,,,f,,{},question,214,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+348,2020-10-29 19:12:43.301097,,,,,,f,,{},question,138,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+349,2020-10-29 19:12:43.342705,,,,,,f,,{},question,214,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+350,2020-10-29 19:12:51.614908,,,,,,f,,{},question,237,0,preference,men
+351,2020-10-29 19:12:53.214379,,,,,,f,,{},question,45,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+352,2020-10-29 19:12:54.982922,,,,,,f,,{},question,47,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+353,2020-10-29 19:12:56.97982,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+354,2020-10-29 19:12:57.862008,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+355,2020-10-29 19:12:58.015094,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+356,2020-10-29 19:12:58.208617,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+357,2020-10-29 19:12:58.293178,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+358,2020-10-29 19:12:58.438564,,,,,,f,,{},question,39,1,questionnaire,"{""age"":""21"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+359,2020-10-29 19:12:59.094743,,,,,,f,,{},question,48,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+360,2020-10-29 19:13:00.480275,,,,,,f,,{},question,229,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+361,2020-10-29 19:13:01.960389,,,,,,f,,{},question,42,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+378,2020-10-29 19:14:10.779284,,,,,,f,,{},question,25,1,questionnaire,"{""age"":""42"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""Philippines"",""current_country"":""United States""}"
+379,2020-10-29 19:14:10.954948,,,,,,f,,{},question,21,1,questionnaire,"{""age"":""48"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+394,2020-10-29 19:15:17.098992,,,,,,f,,{},question,251,0,preference,men
+362,2020-10-29 19:13:02.52529,,,,,,f,,{},question,36,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+363,2020-10-29 19:13:06.19801,,,,,,f,,{},question,229,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+364,2020-10-29 19:13:06.569327,,,,,,f,,{},question,48,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+377,2020-10-29 19:14:08.419373,,,,,,f,,{},question,20,1,questionnaire,"{""age"":""26"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+384,2020-10-29 19:14:28.624133,,,,,,f,,{},question,64,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+365,2020-10-29 19:13:12.275959,,,,,,f,,{},question,238,0,preference,men
+371,2020-10-29 19:13:57.773143,,,,,,f,,{},question,225,1,questionnaire,"{""age"":""22"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+366,2020-10-29 19:13:27.673312,,,,,,f,,{},question,34,1,questionnaire,"{""age"":""46"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+380,2020-10-29 19:14:11.092864,,,,,,f,,{},question,12,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+397,2020-10-29 19:16:25.160728,,,,,,f,,{},question,237,1,questionnaire,"{""age"":""46"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+367,2020-10-29 19:13:32.13348,,,,,,f,,{},question,240,0,preference,women
+368,2020-10-29 19:13:36.949021,,,,,,f,,{},question,166,1,questionnaire,"{""age"":""69"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+369,2020-10-29 19:13:46.606439,,,,,,f,,{},question,244,0,preference,men
+370,2020-10-29 19:13:55.926738,,,,,,f,,{},question,241,0,preference,men
+376,2020-10-29 19:14:07.611466,,,,,,f,,{},question,32,1,questionnaire,"{""age"":""24"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+387,2020-10-29 19:14:34.247607,,,,,,f,,{},question,67,1,questionnaire,"{""age"":""41"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+388,2020-10-29 19:14:35.402155,,,,,,f,,{},question,79,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+372,2020-10-29 19:13:59.10064,,,,,,f,,{},question,120,1,questionnaire,"{""age"":""56"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+373,2020-10-29 19:14:01.073496,,,,,,f,,{},question,120,1,questionnaire,"{""age"":""56"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+392,2020-10-29 19:14:48.73688,,,,,,f,,{},question,73,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+374,2020-10-29 19:14:02.20031,,,,,,f,,{},question,120,1,questionnaire,"{""age"":""56"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+382,2020-10-29 19:14:17.338799,,,,,,f,,{},question,25,1,questionnaire,"{""age"":""42"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""Philippines"",""current_country"":""United States""}"
+375,2020-10-29 19:14:06.894722,,,,,,f,,{},question,246,0,preference,men
+381,2020-10-29 19:14:11.898995,,,,,,f,,{},question,245,0,preference,women
+393,2020-10-29 19:15:14.47198,,,,,,f,,{},question,252,0,preference,men
+383,2020-10-29 19:14:26.954455,,,,,,f,,{},question,72,1,questionnaire,"{""age"":""25"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+385,2020-10-29 19:14:31.731219,,,,,,f,,{},question,71,1,questionnaire,"{""age"":""25"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+386,2020-10-29 19:14:31.998141,,,,,,f,,{},question,247,0,preference,women
+396,2020-10-29 19:16:00.958159,,,,,,f,,{},question,254,0,preference,men
+389,2020-10-29 19:14:39.995031,,,,,,f,,{},question,248,0,preference,men
+390,2020-10-29 19:14:40.544972,,,,,,f,,{},question,80,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+391,2020-10-29 19:14:44.925911,,,,,,f,,{},question,250,0,preference,men
+395,2020-10-29 19:15:36.904629,,,,,,f,,{},question,253,0,preference,women
+398,2020-10-29 19:16:27.605904,,,,,,f,,{},question,237,1,questionnaire,"{""age"":""46"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+399,2020-10-29 19:16:28.53906,,,,,,f,,{},question,237,1,questionnaire,"{""age"":""46"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+400,2020-10-29 19:16:45.69732,,,,,,f,,{},question,192,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+401,2020-10-29 19:17:01.793832,,,,,,f,,{},question,218,1,questionnaire,"{""age"":""39"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+402,2020-10-29 19:17:01.796559,,,,,,f,,{},question,246,1,questionnaire,"{""age"":""47"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+403,2020-10-29 19:17:07.013571,,,,,,f,,{},question,246,1,questionnaire,"{""age"":""47"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+404,2020-10-29 19:17:08.063292,,,,,,f,,{},question,246,1,questionnaire,"{""age"":""47"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+405,2020-10-29 19:17:15.395239,,,,,,f,,{},question,256,0,preference,men
+406,2020-10-29 19:17:22.78358,,,,,,f,,{},question,255,0,preference,women
+407,2020-10-29 19:17:28.837605,,,,,,f,,{},question,151,1,questionnaire,"{""age"":""37"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""Russia"",""current_country"":""United States""}"
+408,2020-10-29 19:17:41.41953,,,,,,f,,{},question,241,1,questionnaire,"{""age"":""60"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+409,2020-10-29 19:17:42.892183,,,,,,f,,{},question,251,1,questionnaire,"{""age"":""47"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+410,2020-10-29 19:18:20.883019,,,,,,f,,{},question,257,0,preference,men
+411,2020-10-29 19:18:21.204381,,,,,,f,,{},question,96,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+412,2020-10-29 19:18:24.088816,,,,,,f,,{},question,95,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+413,2020-10-29 19:18:28.405498,,,,,,f,,{},question,77,1,questionnaire,"{""age"":""65"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+414,2020-10-29 19:18:31.589969,,,,,,f,,{},question,81,1,questionnaire,"{""age"":""71"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+415,2020-10-29 19:18:34.33221,,,,,,f,,{},question,90,1,questionnaire,"{""age"":""24"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+416,2020-10-29 19:18:34.671605,,,,,,f,,{},question,117,1,questionnaire,"{""age"":""40"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+417,2020-10-29 19:18:34.916,,,,,,f,,{},question,258,0,preference,women
+418,2020-10-29 19:18:36.389212,,,,,,f,,{},question,104,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+419,2020-10-29 19:18:40.593848,,,,,,f,,{},question,114,1,questionnaire,"{""age"":""41"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+420,2020-10-29 19:18:43.343701,,,,,,f,,{},question,123,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""Thailand"",""current_country"":""United States""}"
+421,2020-10-29 19:18:43.529653,,,,,,f,,{},question,107,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+422,2020-10-29 19:18:45.791064,,,,,,f,,{},question,129,1,questionnaire,"{""age"":""52"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+423,2020-10-29 19:18:48.555056,,,,,,f,,{},question,111,1,questionnaire,"{""age"":""24"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+424,2020-10-29 19:18:52.038565,,,,,,f,,{},question,112,1,questionnaire,"{""age"":""27"",""sex"":""Female"",""gender"":""Transgender Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+425,2020-10-29 19:18:53.580475,,,,,,f,,{},question,60,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+426,2020-10-29 19:19:03.826371,,,,,,f,,{},question,250,1,questionnaire,"{""age"":""25"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+427,2020-10-29 19:19:19.758561,,,,,,f,,{},question,98,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+428,2020-10-29 19:19:33.402034,,,,,,f,,{},question,259,0,preference,women
+429,2020-10-29 19:19:45.218345,,,,,,f,,{},question,97,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+430,2020-10-29 19:19:48.090526,,,,,,f,,{},question,195,1,questionnaire,"{""age"":""25"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+431,2020-10-29 19:19:49.268241,,,,,,f,,{},question,86,1,questionnaire,"{""age"":""48"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+432,2020-10-29 19:19:53.286867,,,,,,f,,{},question,260,0,preference,men
+433,2020-10-29 19:19:53.649899,,,,,,f,,{},question,102,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+434,2020-10-29 19:19:55.096948,,,,,,f,,{},question,100,1,questionnaire,"{""age"":""61"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+435,2020-10-29 19:19:56.175898,,,,,,f,,{},question,106,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+436,2020-10-29 19:20:05.565107,,,,,,f,,{},question,115,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+437,2020-10-29 19:20:14.915315,,,,,,f,,{},question,105,1,questionnaire,"{""age"":""51"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+438,2020-10-29 19:20:18.645403,,,,,,f,,{},question,179,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+460,2020-10-29 19:22:20.341456,,,,,,f,,{},question,240,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+439,2020-10-29 19:20:49.336125,,,,,,f,,{},question,236,1,questionnaire,"{""age"":""25"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+470,2020-10-29 19:23:37.148342,,,,,,f,,{},question,284,0,preference,women
+440,2020-10-29 19:20:57.197743,,,,,,f,,{},question,242,0,preference,women
+466,2020-10-29 19:22:59.620883,,,,,,f,,{},question,275,0,preference,men
+441,2020-10-29 19:21:05.953085,,,,,,f,,{},question,263,0,preference,men
+475,2020-10-29 19:24:01.148092,,,,,,f,,{},question,136,1,questionnaire,"{""age"":""40"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+442,2020-10-29 19:21:23.945407,,,,,,f,,{},question,256,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+443,2020-10-29 19:21:24.130232,,,,,,f,,{},question,264,0,preference,women
+445,2020-10-29 19:21:53.805666,,,,,,f,,{},question,147,1,questionnaire,"{""age"":""31"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+449,2020-10-29 19:22:00.241389,,,,,,f,,{},question,140,1,questionnaire,"{""age"":""33"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+464,2020-10-29 19:22:55.021464,,,,,,f,,{},question,173,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+479,2020-10-29 19:24:03.568276,,,,,,f,,{},question,134,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+444,2020-10-29 19:21:33.946332,,,,,,f,,{},question,265,0,preference,men
+446,2020-10-29 19:21:54.235304,,,,,,f,,{},question,126,1,questionnaire,"{""age"":""44"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+473,2020-10-29 19:23:53.713058,,,,,,f,,{},question,286,0,preference,women
+476,2020-10-29 19:24:01.736233,,,,,,f,,{},question,127,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+485,2020-10-29 19:24:17.967729,,,,,,f,,{},question,289,0,preference,women
+489,2020-10-29 19:24:37.096012,,,,,,f,,{},question,291,0,preference,men
+447,2020-10-29 19:21:55.478125,,,,,,f,,{},question,268,0,preference,men
+448,2020-10-29 19:21:56.395673,,,,,,f,,{},question,146,1,questionnaire,"{""age"":""45"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+487,2020-10-29 19:24:22.233649,,,,,,f,,{},question,113,1,questionnaire,"{""age"":""25"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+450,2020-10-29 19:22:02.929691,,,,,,f,,{},question,135,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+482,2020-10-29 19:24:08.525009,,,,,,f,,{},question,128,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+451,2020-10-29 19:22:05.933351,,,,,,f,,{},question,273,0,preference,women
+465,2020-10-29 19:22:56.69595,,,,,,f,,{},question,173,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+452,2020-10-29 19:22:06.036953,,,,,,f,,{},question,270,0,preference,men
+457,2020-10-29 19:22:13.629282,,,,,,f,,{},question,155,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+462,2020-10-29 19:22:22.145188,,,,,,f,,{},question,271,0,preference,women
+471,2020-10-29 19:23:42.075988,,,,,,f,,{},question,287,0,preference,men
+492,2020-10-29 19:24:41.116865,,,,,,f,,{},question,287,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+453,2020-10-29 19:22:06.441476,,,,,,f,,{},question,267,0,preference,women
+454,2020-10-29 19:22:06.472387,,,,,,f,,{},question,272,0,preference,men
+463,2020-10-29 19:22:52.284566,,,,,,f,,{},question,255,1,questionnaire,"{""age"":""67"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+490,2020-10-29 19:24:38.635189,,,,,,f,,{},question,295,0,preference,men
+455,2020-10-29 19:22:07.954167,,,,,,f,,{},question,269,0,preference,women
+456,2020-10-29 19:22:10.463067,,,,,,f,,{},question,274,0,preference,women
+458,2020-10-29 19:22:14.138123,,,,,,f,,{},question,266,0,preference,women
+459,2020-10-29 19:22:19.631025,,,,,,f,,{},question,276,0,preference,women
+484,2020-10-29 19:24:17.861042,,,,,,f,,{},question,133,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+461,2020-10-29 19:22:21.872507,,,,,,f,,{},question,277,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+477,2020-10-29 19:24:03.157685,,,,,,f,,{},question,132,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+467,2020-10-29 19:23:01.36695,,,,,,f,,{},question,279,0,preference,men
+468,2020-10-29 19:23:04.096653,,,,,,f,,{},question,280,0,preference,women
+469,2020-10-29 19:23:35.596123,,,,,,f,,{},question,281,0,preference,women
+478,2020-10-29 19:24:03.524525,,,,,,f,,{},question,283,0,preference,both
+472,2020-10-29 19:23:51.937045,,,,,,f,,{},question,122,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+474,2020-10-29 19:23:57.710327,,,,,,f,,{},question,285,0,preference,men
+486,2020-10-29 19:24:20.189736,,,,,,f,,{},question,290,0,preference,men
+480,2020-10-29 19:24:04.707201,,,,,,f,,{},question,282,0,preference,men
+481,2020-10-29 19:24:07.781648,,,,,,f,,{},question,118,1,questionnaire,"{""age"":""44"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+483,2020-10-29 19:24:10.096941,,,,,,f,,{},question,292,0,preference,men
+494,2020-10-29 19:24:48.773371,,,,,,f,,{},question,294,0,preference,women
+488,2020-10-29 19:24:26.112484,,,,,,f,,{},question,283,1,questionnaire,"{""age"":""55"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+491,2020-10-29 19:24:38.687136,,,,,,f,,{},question,292,1,questionnaire,"{""age"":""53"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+493,2020-10-29 19:24:45.441571,,,,,,f,,{},question,295,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+495,2020-10-29 19:24:55.456543,,,,,,f,,{},question,291,1,questionnaire,"{""age"":""38"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+496,2020-10-29 19:25:01.038793,,,,,,f,,{},question,294,1,questionnaire,"{""age"":""23"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+497,2020-10-29 19:25:01.387239,,,,,,f,,{},question,293,0,preference,men
+498,2020-10-29 19:25:02.376246,,,,,,f,,{},question,296,0,preference,women
+499,2020-10-29 19:25:19.046521,,,,,,f,,{},question,245,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+500,2020-10-29 19:25:20.361258,,,,,,f,,{},question,263,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+501,2020-10-29 19:25:24.567868,,,,,,f,,{},question,263,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+502,2020-10-29 19:25:24.727212,,,,,,f,,{},question,279,1,questionnaire,"{""age"":""47"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+503,2020-10-29 19:25:25.298442,,,,,,f,,{},question,296,1,questionnaire,"{""age"":""34"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+504,2020-10-29 19:25:25.762704,,,,,,f,,{},question,263,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+505,2020-10-29 19:25:32.075941,,,,,,f,,{},question,293,1,questionnaire,"{""age"":""55"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+506,2020-10-29 19:25:39.837087,,,,,,f,,{},question,160,1,questionnaire,"{""age"":""30"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+507,2020-10-29 19:25:44.962239,,,,,,f,,{},question,174,1,questionnaire,"{""age"":""51"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+508,2020-10-29 19:25:58.152779,,,,,,f,,{},question,244,1,questionnaire,"{""age"":""25"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+509,2020-10-29 19:26:00.981232,,,,,,f,,{},question,180,1,questionnaire,"{""age"":""61"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+510,2020-10-29 19:26:02.8049,,,,,,f,,{},question,290,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+511,2020-10-29 19:26:04.105206,,,,,,f,,{},question,297,0,preference,men
+512,2020-10-29 19:26:06.467443,,,,,,f,,{},question,181,1,questionnaire,"{""age"":""34"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+513,2020-10-29 19:26:11.373441,,,,,,f,,{},question,259,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+514,2020-10-29 19:26:18.35141,,,,,,f,,{},question,297,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+515,2020-10-29 19:26:21.816165,,,,,,f,,{},question,168,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+516,2020-10-29 19:26:23.545026,,,,,,f,,{},question,177,1,questionnaire,"{""age"":""48"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+517,2020-10-29 19:26:26.350265,,,,,,f,,{},question,33,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+518,2020-10-29 19:26:26.705568,,,,,,f,,{},question,268,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+519,2020-10-29 19:26:29.086362,,,,,,f,,{},question,175,1,questionnaire,"{""age"":""30"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+520,2020-10-29 19:26:38.7405,,,,,,f,,{},question,176,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+521,2020-10-29 19:26:38.741791,,,,,,f,,{},question,300,0,preference,men
+522,2020-10-29 19:26:45.075133,,,,,,f,,{},question,298,0,preference,men
+523,2020-10-29 19:26:47.160358,,,,,,f,,{},question,203,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+524,2020-10-29 19:26:51.764328,,,,,,f,,{},question,303,0,preference,women
+525,2020-10-29 19:26:54.608136,,,,,,f,,{},question,299,0,preference,men
+526,2020-10-29 19:27:05.637444,,,,,,f,,{},question,306,0,preference,men
+527,2020-10-29 19:27:06.655975,,,,,,f,,{},question,301,0,preference,women
+528,2020-10-29 19:27:09.140113,,,,,,f,,{},question,162,1,questionnaire,"{""age"":""39"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+529,2020-10-29 19:27:10.451032,,,,,,f,,{},question,307,0,preference,men
+530,2020-10-29 19:27:10.881846,,,,,,f,,{},question,300,1,questionnaire,"{""age"":""49"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+531,2020-10-29 19:27:11.020932,,,,,,f,,{},question,298,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+532,2020-10-29 19:27:14.827368,,,,,,f,,{},question,302,0,preference,men
+533,2020-10-29 19:27:15.001704,,,,,,f,,{},question,152,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+534,2020-10-29 19:27:15.729481,,,,,,f,,{},question,309,0,preference,men
+535,2020-10-29 19:27:17.133907,,,,,,f,,{},question,303,1,questionnaire,"{""age"":""40"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+536,2020-10-29 19:27:18.516715,,,,,,f,,{},question,144,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+537,2020-10-29 19:27:19.684334,,,,,,f,,{},question,163,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+547,2020-10-29 19:27:36.337615,,,,,,f,,{},question,308,1,questionnaire,"{""age"":""36"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+548,2020-10-29 19:27:38.019532,,,,,,f,,{},question,310,0,preference,men
+586,2020-10-29 19:32:21.56743,,,,,,f,,{},question,322,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+538,2020-10-29 19:27:20.246426,,,,,,f,,{},question,308,0,preference,both
+539,2020-10-29 19:27:20.738886,,,,,,f,,{},question,299,1,questionnaire,"{""age"":""56"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+540,2020-10-29 19:27:25.81816,,,,,,f,,{},question,305,0,preference,women
+589,2020-10-29 19:32:33.899766,,,,,,f,,{},question,323,1,questionnaire,"{""age"":""27"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+541,2020-10-29 19:27:26.779214,,,,,,f,,{},question,274,1,questionnaire,"{""age"":""64"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+542,2020-10-29 19:27:27.232031,,,,,,f,,{},question,276,1,questionnaire,"{""age"":""60"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+543,2020-10-29 19:27:28.223712,,,,,,f,,{},question,149,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+544,2020-10-29 19:27:29.068585,,,,,,f,,{},question,307,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+564,2020-10-29 19:29:13.317021,,,,,,f,,{},question,261,0,preference,women
+578,2020-10-29 19:31:25.501272,,,,,,f,,{},question,317,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+584,2020-10-29 19:32:08.915409,,,,,,f,,{},question,322,0,preference,women
+545,2020-10-29 19:27:29.627705,,,,,,f,,{},question,304,0,preference,women
+546,2020-10-29 19:27:29.831522,,,,,,f,,{},question,148,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+549,2020-10-29 19:27:38.55647,,,,,,f,,{},question,302,1,questionnaire,"{""age"":""60"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+550,2020-10-29 19:27:38.692425,,,,,,f,,{},question,161,1,questionnaire,"{""age"":""31"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+551,2020-10-29 19:27:38.922562,,,,,,f,,{},question,301,1,questionnaire,"{""age"":""30"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+569,2020-10-29 19:30:29.355101,,,,,,f,,{},question,230,1,questionnaire,"{""age"":""43"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+591,2020-10-29 19:32:43.358375,,,,,,f,,{},question,272,1,questionnaire,"{""age"":""56"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+552,2020-10-29 19:27:40.710454,,,,,,f,,{},question,227,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+567,2020-10-29 19:30:12.964861,,,,,,f,,{},question,314,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+574,2020-10-29 19:31:13.239936,,,,,,f,,{},question,194,1,questionnaire,"{""age"":""59"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+553,2020-10-29 19:27:44.464081,,,,,,f,,{},question,309,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+554,2020-10-29 19:27:45.808469,,,,,,f,,{},question,305,1,questionnaire,"{""age"":""30"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+555,2020-10-29 19:27:48.645538,,,,,,f,,{},question,310,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+556,2020-10-29 19:27:58.453937,,,,,,f,,{},question,304,1,questionnaire,"{""age"":""61"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""India"",""current_country"":""United States""}"
+557,2020-10-29 19:28:23.859284,,,,,,f,,{},question,180,1,questionnaire,"{""age"":""61"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+558,2020-10-29 19:28:25.271863,,,,,,f,,{},question,180,1,questionnaire,"{""age"":""61"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+577,2020-10-29 19:31:22.077529,,,,,,f,,{},question,318,0,preference,women
+582,2020-10-29 19:31:48.176593,,,,,,f,,{},question,320,0,preference,women
+559,2020-10-29 19:28:28.541977,,,,,,f,,{},question,311,0,preference,men
+573,2020-10-29 19:31:11.432823,,,,,,f,,{},question,288,0,preference,men
+560,2020-10-29 19:28:41.252243,,,,,,f,,{},question,311,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+561,2020-10-29 19:28:43.58942,,,,,,f,,{},question,312,0,preference,women
+562,2020-10-29 19:28:44.885791,,,,,,f,,{},question,306,1,questionnaire,"{""age"":""30"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""Uzbekistan""}"
+563,2020-10-29 19:28:54.126403,,,,,,f,,{},question,312,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+588,2020-10-29 19:32:30.528782,,,,,,f,,{},question,324,0,preference,women
+595,2020-10-29 19:32:56.269892,,,,,,f,,{},question,325,1,questionnaire,"{""age"":""32"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+565,2020-10-29 19:29:31.971735,,,,,,f,,{},question,261,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+576,2020-10-29 19:31:21.985618,,,,,,f,,{},question,288,1,questionnaire,"{""age"":""29"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+566,2020-10-29 19:29:51.917901,,,,,,f,,{},question,314,0,preference,women
+568,2020-10-29 19:30:15.390514,,,,,,f,,{},question,315,0,preference,women
+590,2020-10-29 19:32:37.026249,,,,,,f,,{},question,319,1,questionnaire,"{""age"":""55"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+570,2020-10-29 19:30:40.127979,,,,,,f,,{},question,315,1,questionnaire,"{""age"":""31"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+571,2020-10-29 19:31:09.640315,,,,,,f,,{},question,317,0,preference,women
+572,2020-10-29 19:31:10.552932,,,,,,f,,{},question,191,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+581,2020-10-29 19:31:44.175422,,,,,,f,,{},question,197,1,questionnaire,"{""age"":""58"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+592,2020-10-29 19:32:44.522581,,,,,,f,,{},question,324,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+594,2020-10-29 19:32:52.781304,,,,,,f,,{},question,326,0,preference,men
+575,2020-10-29 19:31:15.310402,,,,,,f,,{},question,188,1,questionnaire,"{""age"":""39"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+579,2020-10-29 19:31:35.242093,,,,,,f,,{},question,318,1,questionnaire,"{""age"":""54"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+580,2020-10-29 19:31:39.809008,,,,,,f,,{},question,321,0,preference,women
+583,2020-10-29 19:31:56.625897,,,,,,f,,{},question,321,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+585,2020-10-29 19:32:10.877647,,,,,,f,,{},question,319,0,preference,women
+587,2020-10-29 19:32:21.853693,,,,,,f,,{},question,323,0,preference,men
+593,2020-10-29 19:32:48.697433,,,,,,f,,{},question,325,0,preference,women
+596,2020-10-29 19:32:59.650227,,,,,,f,,{},question,320,1,questionnaire,"{""age"":""41"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+597,2020-10-29 19:33:03.544154,,,,,,f,,{},question,320,1,questionnaire,"{""age"":""41"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+598,2020-10-29 19:33:30.143533,,,,,,f,,{},question,327,0,preference,women
+599,2020-10-29 19:33:30.698699,,,,,,f,,{},question,326,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+600,2020-10-29 19:33:40.450878,,,,,,f,,{},question,327,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+601,2020-10-29 19:33:41.111411,,,,,,f,,{},question,207,1,questionnaire,"{""age"":""40"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+602,2020-10-29 19:33:41.574261,,,,,,f,,{},question,205,1,questionnaire,"{""age"":""27"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+603,2020-10-29 19:33:42.854556,,,,,,f,,{},question,190,1,questionnaire,"{""age"":""36"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+604,2020-10-29 19:33:47.529539,,,,,,f,,{},question,202,1,questionnaire,"{""age"":""26"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+605,2020-10-29 19:33:48.117149,,,,,,f,,{},question,200,1,questionnaire,"{""age"":""55"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+606,2020-10-29 19:33:49.029537,,,,,,f,,{},question,213,1,questionnaire,"{""age"":""31"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+607,2020-10-29 19:33:56.495286,,,,,,f,,{},question,215,1,questionnaire,"{""age"":""23"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+608,2020-10-29 19:34:23.921863,,,,,,f,,{},question,252,1,questionnaire,"{""age"":""45"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+609,2020-10-29 19:34:31.51282,,,,,,f,,{},question,208,1,questionnaire,"{""age"":""43"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+610,2020-10-29 19:34:36.519392,,,,,,f,,{},question,329,0,preference,men
+611,2020-10-29 19:34:44.620024,,,,,,f,,{},question,199,1,questionnaire,"{""age"":""38"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+612,2020-10-29 19:34:55.272269,,,,,,f,,{},question,329,1,questionnaire,"{""age"":""33"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+613,2020-10-29 19:35:12.107228,,,,,,f,,{},question,204,1,questionnaire,"{""age"":""62"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Other/Prefer not to Answer"",""birth_country"":""United States"",""current_country"":""United States""}"
+614,2020-10-29 19:35:21.034994,,,,,,f,,{},question,330,0,preference,men
+615,2020-10-29 19:35:25.439746,,,,,,f,,{},question,328,0,preference,men
+616,2020-10-29 19:35:31.397075,,,,,,f,,{},question,330,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+617,2020-10-29 19:35:48.059915,,,,,,f,,{},question,331,0,preference,men
+618,2020-10-29 19:35:51.704956,,,,,,f,,{},question,332,0,preference,men
+619,2020-10-29 19:35:54.263954,,,,,,f,,{},question,238,1,questionnaire,"{""age"":""24"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+620,2020-10-29 19:35:57.462731,,,,,,f,,{},question,328,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+621,2020-10-29 19:36:08.35252,,,,,,f,,{},question,332,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+622,2020-10-29 19:36:12.514713,,,,,,f,,{},question,224,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+623,2020-10-29 19:36:13.816782,,,,,,f,,{},question,333,0,preference,women
+624,2020-10-29 19:36:14.203369,,,,,,f,,{},question,232,1,questionnaire,"{""age"":""45"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+625,2020-10-29 19:36:16.37857,,,,,,f,,{},question,331,1,questionnaire,"{""age"":""49"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Other/Prefer not to Answer"",""birth_country"":""United States"",""current_country"":""United States""}"
+626,2020-10-29 19:36:23.280013,,,,,,f,,{},question,216,1,questionnaire,"{""age"":""39"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+627,2020-10-29 19:36:40.43971,,,,,,f,,{},question,220,1,questionnaire,"{""age"":""49"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+628,2020-10-29 19:36:43.646289,,,,,,f,,{},question,269,1,questionnaire,"{""age"":""65"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+629,2020-10-29 19:36:43.769102,,,,,,f,,{},question,223,1,questionnaire,"{""age"":""27"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+630,2020-10-29 19:36:44.993904,,,,,,f,,{},question,209,1,questionnaire,"{""age"":""42"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+631,2020-10-29 19:37:21.673819,,,,,,f,,{},question,334,0,preference,women
+632,2020-10-29 19:37:37.995875,,,,,,f,,{},question,335,0,preference,men
+633,2020-10-29 19:37:42.634454,,,,,,f,,{},question,334,1,questionnaire,"{""age"":""48"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+634,2020-10-29 19:37:46.148352,,,,,,f,,{},question,333,1,questionnaire,"{""age"":""65"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Other/Prefer not to Answer"",""birth_country"":""United States"",""current_country"":""United States""}"
+635,2020-10-29 19:38:04.44085,,,,,,f,,{},question,269,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+640,2020-10-29 19:38:39.072587,,,,,,f,,{},question,336,0,preference,women
+663,2020-10-29 19:43:22.624976,,,,,,f,,{},question,340,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+636,2020-10-29 19:38:19.303261,,,,,,f,,{},question,273,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+654,2020-10-29 19:39:57.647246,,,,,,f,,{},question,270,1,questionnaire,"{""age"":""37"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+637,2020-10-29 19:38:20.062464,,,,,,f,,{},question,273,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+638,2020-10-29 19:38:20.510199,,,,,,f,,{},question,273,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+639,2020-10-29 19:38:33.148531,,,,,,f,,{},question,234,1,questionnaire,"{""age"":""34"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+641,2020-10-29 19:38:39.134758,,,,,,f,,{},question,233,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+642,2020-10-29 19:38:40.508421,,,,,,f,,{},question,247,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+659,2020-10-29 19:40:28.944512,,,,,,f,,{},question,264,1,questionnaire,"{""age"":""48"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+643,2020-10-29 19:38:40.607943,,,,,,f,,{},question,253,1,questionnaire,"{""age"":""38"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+644,2020-10-29 19:38:43.069836,,,,,,f,,{},question,242,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+647,2020-10-29 19:38:59.874038,,,,,,f,,{},question,212,1,questionnaire,"{""age"":""35"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+645,2020-10-29 19:38:52.334396,,,,,,f,,{},question,226,1,questionnaire,"{""age"":""46"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+657,2020-10-29 19:40:00.460001,,,,,,f,,{},question,338,1,questionnaire,"{""age"":""30"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+660,2020-10-29 19:40:32.785636,,,,,,f,,{},question,289,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+646,2020-10-29 19:38:58.70786,,,,,,f,,{},question,221,1,questionnaire,"{""age"":""54"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+661,2020-10-29 19:40:46.369048,,,,,,f,,{},question,339,1,questionnaire,"{""age"":""52"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+680,2020-10-29 19:49:32.169592,,,,,,f,,{},question,266,1,questionnaire,"{""age"":""42"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+648,2020-10-29 19:39:02.317147,,,,,,f,,{},question,336,1,questionnaire,"{""age"":""49"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+649,2020-10-29 19:39:07.066266,,,,,,f,,{},question,219,1,questionnaire,"{""age"":""28"",""sex"":""Female"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+650,2020-10-29 19:39:23.455873,,,,,,f,,{},question,337,0,preference,women
+668,2020-10-29 19:47:02.109729,,,,,,f,,{},question,342,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+651,2020-10-29 19:39:37.701517,,,,,,f,,{},question,339,0,preference,women
+652,2020-10-29 19:39:43.445521,,,,,,f,,{},question,338,0,preference,women
+653,2020-10-29 19:39:51.454733,,,,,,f,,{},question,260,1,questionnaire,"{""age"":""24"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+664,2020-10-29 19:43:48.246721,,,,,,f,,{},question,341,0,preference,women
+675,2020-10-29 19:49:09.773336,,,,,,f,,{},question,267,1,questionnaire,"{""age"":""28"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+655,2020-10-29 19:39:58.759157,,,,,,f,,{},question,275,1,questionnaire,"{""age"":""33"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Homosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+673,2020-10-29 19:48:53.817324,,,,,,f,,{},question,343,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+681,2020-10-29 19:51:38.853838,,,,,,f,,{},question,284,1,questionnaire,"{""age"":""49"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+656,2020-10-29 19:39:59.702148,,,,,,f,,{},question,265,1,questionnaire,"{""age"":""50"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Bisexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+658,2020-10-29 19:40:12.88429,,,,,,f,,{},question,257,1,questionnaire,"{""age"":""35"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+662,2020-10-29 19:43:15.190133,,,,,,f,,{},question,340,0,preference,men
+665,2020-10-29 19:44:04.184428,,,,,,f,,{},question,341,1,questionnaire,"{""age"":""38"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+666,2020-10-29 19:44:17.887409,,,,,,f,,{},question,282,1,questionnaire,"{""age"":""53"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+667,2020-10-29 19:46:58.814917,,,,,,f,,{},question,342,0,preference,men
+669,2020-10-29 19:47:04.013482,,,,,,f,,{},question,342,1,questionnaire,"{""age"":""18"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+674,2020-10-29 19:48:57.968404,,,,,,f,,{},question,344,0,preference,men
+676,2020-10-29 19:49:13.556083,,,,,,f,,{},question,344,1,questionnaire,"{""age"":""49"",""sex"":""Female"",""gender"":""Female"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+670,2020-10-29 19:47:57.416605,,,,,,f,,{},question,316,0,preference,men
+671,2020-10-29 19:48:04.47275,,,,,,f,,{},question,316,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+672,2020-10-29 19:48:38.27833,,,,,,f,,{},question,343,0,preference,men
+677,2020-10-29 19:49:14.009963,,,,,,f,,{},question,286,1,questionnaire,"{""age"":""26"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+678,2020-10-29 19:49:15.473864,,,,,,f,,{},question,281,1,questionnaire,"{""age"":""44"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
+679,2020-10-29 19:49:21.775258,,,,,,f,,{},question,271,1,questionnaire,"{""age"":""29"",""sex"":""Male"",""gender"":""Male"",""orientation"":""Heterosexual"",""birth_country"":""United States"",""current_country"":""United States""}"
